@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="log4j-jul-2.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/log4j-jul-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/log4j-core-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/xmldb.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/jcip-annotations-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/jta-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/xmlrpc-server-3.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/jackson-core-2.7.4.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/jargo-0.4.2-SNAPSHOT-7fa1d04.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/rsyntaxtextarea-2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/jline-0.9.94.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/xmlrpc-common-3.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/log4j-slf4j-impl-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/xmlrpc-client-3.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/ws-commons-util-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/log4j-api-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/pkg-java-fork.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/quartz-2.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/j8fu-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/gnu-crypto-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/commons-pool-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/commons-io-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/commons-codec-1.10.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/clj-ds-0.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/cglib-nodep-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/lib/core/antlr-2.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

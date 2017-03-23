@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="xqjapi">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/xqjapi.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/xqj2-0.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/exist.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/exist-xqj-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/exist-optional.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/JARS/JARS/examples.jar!/" />
+      <root url="file://$USER_HOME$/Baixades/JARS/JARS" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Baixades/JARS/JARS" recursive="false" />
+  </library>
+</component>
