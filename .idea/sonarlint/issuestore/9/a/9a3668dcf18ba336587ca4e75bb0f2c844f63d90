@@ -1,9 +1,15 @@
 
-jsquid:S3008"NRename this field "URI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûí¯…8«ÄÙä®+
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(„†ñˆ8«ÄÙä®+
-Fsquid:S1166"%Either log or rethrow this exception.(§È˜‚ùÿÿÿÿ8Ôğå®+
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ôğå®+
-dsquid:UselessImportCheck";Remove this unused import 'org.exist.xmldb.CollectionImpl'.(Áüğÿ8ãş„å®+
-Ysquid:S1197"8Move the array designator from the variable to the type.(àÙàıÿÿÿÿ8«ÄÙä®+
+asquid:S1192"FDefine a constant instead of duplicating this literal "admin" 4 times.(¶'8À¡¯â¯+
 Esquid:S1172")Remove this unused method parameter "fl".(×½½×8«ÄÙä®+
+Ysquid:S1197"8Move the array designator from the variable to the type.(àÙàıÿÿÿÿ8«ÄÙä®+
+jsquid:S3008"NRename this field "URI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûí¯…8«ÄÙä®+
+Ysquid:S1854"8Remove this useless assignment to local variable "col2".(…ì€üÿÿÿÿ8ÂÛ¿â¯+
+Jsquid:S1481")Remove this unused "col2" local variable.(…ì€üÿÿÿÿ8ÂÛ¿â¯+
+Fsquid:S1166"%Either log or rethrow this exception.(§È˜‚ùÿÿÿÿ8Ôğå®+
+isquid:UselessImportCheck"@Remove this unused import 'org.xmldb.api.modules.XQueryService'.(ü¹œÂ8ÊîĞâ¯+
 rsquid:UselessImportCheck"DRemove this unused import 'org.exist.storage.index.CollectionStore'.(éª‹ôşÿÿÿÿ8¥¦‹å®+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(×¨êÑ8»ïëâ¯+
+dsquid:UselessImportCheck";Remove this unused import 'org.exist.xmldb.CollectionImpl'.(Áüğÿ8ãş„å®+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ôğå®+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(„†ñˆ8«ÄÙä®+

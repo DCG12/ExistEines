@@ -46,7 +46,7 @@ public class XMLDBIntro {
         //Creem la col·lecció on guardarem el recurs
         CollectionManagementService colmgt = (CollectionManagementService) col.getService("CollectionManagementService", "1.0");
         //l'hi donem un nom a la nova col·lecció
-        col = colmgt.createCollection("Recursos");
+        col = colmgt.createCollection("Recursos2");
 
         //afegir el recurs que farem servir
         Resource res = col.createResource("pokemons.xml","XMLResource");
@@ -59,7 +59,7 @@ public class XMLDBIntro {
         //Mostramos el contenido de un recurso por pantalla
         System.out.println( res2.getContent() );
 
-        
+
 
 
     }
